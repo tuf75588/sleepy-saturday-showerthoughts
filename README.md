@@ -21,4 +21,4 @@ npm run lint
 ```
 
 # Live deployment
-[https://kind-ride-02dc4a.netlify.com/](Sleepy Showerthoughts)
+[Sleepy Showerthouhgts](https://kind-ride-02dc4a.netlify.com/)
